@@ -1,0 +1,203 @@
+.clearfix{
+	zoom:1;
+}
+.erweima{
+	overflow:hidden;
+}
+.category_box{
+	overflow:hidden;
+}
+
+.top_right_nav{
+	display:inline;
+}
+.top_right_nav a{
+	overflow: hidden;
+}
+.top_left a{
+	display:inline;
+}
+.logo{
+	display:inline;
+}
+.dajiadian{
+	display: inline;
+}
+.h2_hover_bg{
+	filter:alpha(opacity=70);
+}
+.nav_box{
+	filter:alpha(opacity=70);
+}
+.main{
+	vertical-align:top;
+	position:relative;
+}
+.img_nav li{
+  display:inline;
+}
+.img_nav .nav_bg{
+	filter:alpha(opacity=50);
+	
+}
+.scroll_icont,.scroll_iconb,.shoppingcar span,.top_entrance a{
+	overflow:hidden;
+}
+.top .top_entrance a{
+	display:inline-block;
+}
+.produte_list{
+	display: inline;
+}
+.head_nav a{
+	overflow:hidden;
+}
+.bg_box{
+	filter:alpha(opacity=70);
+}
+.gang a{
+	overflow: hidden;
+	display:inline;
+}
+.themes_bg{
+	filter:alpha(opacity=80);
+}
+.words_box_bg{
+	filter:alpha(opacity=50);
+	
+}
+.item3_bottom_box_bg{
+	filter:alpha(opacity=40);
+	
+}
+#F8_bg_top{
+	filter:alpha(opacity=70);
+}
+#F8_bg_bottom{
+	filter:alpha(opacity=50);
+}
+
+.wenzi{
+	line-height:17px;
+}
+.foot_line{
+	overflow: hidden;
+}
+.foot{
+	display:inline-block;
+}
+.service_list dd{
+	overflow:hidden;
+}
+.service_list dd{
+	padding-top:4px;
+	height:18px;
+}
+.guomeijituan a{
+	overflow:hidden;
+}
+.img_icon{
+	overflow: hidden;
+}
+body .side_bar{
+	position: absolute;
+	right:0;
+	top:expression(eval(document.documentElement.scrollTop));
+}
+body{
+	height:100%;
+}
+body .leftnav{
+	position: absolute;
+	left:29px;
+	top:expression(eval(document.documentElement.scrollTop)+100);
+}
+.leftnav li{
+	height:32px;
+	padding-top:2px;
+}	
+.h2_hover a{
+	overflow: hidden;
+}	
+.side_roll{
+	padding-top:12px;
+}
+.list_search span{
+	display:inline;
+}
+.brand_content_top span,#more_choice,#more{
+	display: inline;
+	
+}
+.main_product{
+	display:inline;
+}
+.top_nav{
+	display:inline;
+}
+.choice_price .price{
+	overflow:hidden;
+}
+.page_button a{
+	display:inline;
+}
+.address{
+	display:inline;
+}
+.check{
+	overflow:hidden;
+	display:inline;
+}
+.head_botttom input{
+	vertical-align: top;
+}
+#peisong input{
+	margin-top:-3px;
+}
+.contrast_button{
+	overflow:hidden;
+}
+.product_list{
+	zoom:1;
+}
+.product_profile{
+	display:inline;
+}
+.left_button,.right_button{
+	display:inline;
+	overflow: hidden;
+}
+.guess_like{
+	position:relative;
+}
+.product_profile{
+	overflow:hidden;
+}
+..wrap_box_top_left a{
+	display:inline;
+}
+.small_img{
+	display:inline;
+}
+.last_img,.next_img{
+	display: inline;
+}
+#duibi{
+	overflow: hidden;
+}
+.product_info_img_box a,.product_info_banben a{
+	display:inline;
+}
+.product_info_collect a{
+	display: inline;
+}
+.last_img,.next_img{
+	overflow:hidden;
+}
+.taocan_jiahao,.product_info_denghao{
+	display:inline;
+	overflow: hidden;
+}
+.xuhao{
+	overflow:hidden;
+}
